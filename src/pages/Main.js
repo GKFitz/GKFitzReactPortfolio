@@ -8,12 +8,12 @@ export default class Main extends Component {
     render() {
         return (
             <div>
-                <Header />
-                <br/>
-                <br/>
-                <br/>
-                <br/>
                 <NavBar />
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <Header />
                 <br/>
                 <br/>
                 <br/>
