@@ -43,13 +43,15 @@ body {
   background-color: whitesmoke;
 }
 
-body > nav {
+body nav {
   
   display:flex;
+  flex-direction: row;
   justify-content: space-between;
   padding:20px;
   position: fixed;
-  background-color: rgba(0, 119, 255, 0.116);
+  /* background-color: salmon; */
+  background-color: rgb(0, 119, 255);
   left: 0;
   right:0;
 
@@ -132,14 +134,17 @@ main p {
   display: inline-block;
   margin:10px;
   vertical-align: top;
+  
+
 }
 
 #myWork img {
   width:100%;
+  background-color: salmon;
   
 } 
 
-#myWork nav {
+#myWork div {
   font-family: sans-serif;
 }
 #myWork a {

@@ -6,9 +6,9 @@ function Navbar() {
     <nav>
         <a href="#"><h1>Gillian K. Fitzgerald</h1></a>
         <section>
-            <a href="#aboutMe">About Me</a>
-            <a href="#myWork">My Work</a>
-            <a href="#contactMe">Contact Me!</a>
+            <a href="#">About Me</a>
+            <a href="#">My Work</a>
+            <a href="#">Contact Me!</a>
             
         </section>
     
