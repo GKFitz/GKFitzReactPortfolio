@@ -3,6 +3,7 @@ import Header from '../components/Header.js';
 import NavBar from '../components/NavBar.js';
 import MyWork from '../components/MyWork.js';
 import ContactMe from '../components/ContactMe.js';
+import Footer from '../components/Footer.js';
 
 export default class Main extends Component {
     render() {
@@ -22,6 +23,10 @@ export default class Main extends Component {
                 <br/>
                 <br/>
                 <ContactMe />
+                <br/>
+                <br/>
+                <br/>
+                <Footer />
                 
             </div>
 
