@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import GillianHS from "../assets/hw2-images/gillianSmileHS.jpg"
 
 export default class Header extends Component {
     render() {
@@ -6,7 +7,7 @@ export default class Header extends Component {
             
             <header>
                 <figure>
-                    <img src="hw2-images/gillianSmileHS.jpg" alt="Gillisn HS"/>
+                    <img src= {GillianHS} alt="Gillisn HS"/>
                     <figcaption>Gillian K. Fitzgerald</figcaption>
                     <figcaption>Full Stack Developer Freelancer</figcaption>
                 </figure>
