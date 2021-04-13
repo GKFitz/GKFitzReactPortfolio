@@ -19,7 +19,7 @@ export default class Main extends Component {
                 <br/>
                 <br/>
                 <br/>
-                <AboutMe />
+                <AboutMe id= "AboutMe"/>
                 <br/>
                 <br/>
                 <br/>
