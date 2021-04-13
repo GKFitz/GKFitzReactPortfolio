@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Header from '../components/Header.js';
 import NavBar from '../components/NavBar.js';
+import AboutMe from '../components/AboutMe.js';
 import MyWork from '../components/MyWork.js';
 import ContactMe from '../components/ContactMe.js';
 import Footer from '../components/Footer.js';
@@ -15,6 +16,10 @@ export default class Main extends Component {
                 <br/>
                 <br/>
                 <Header />
+                <br/>
+                <br/>
+                <br/>
+                <AboutMe />
                 <br/>
                 <br/>
                 <br/>
