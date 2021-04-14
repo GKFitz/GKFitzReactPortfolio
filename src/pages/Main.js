@@ -14,7 +14,6 @@ export default class Main extends Component {
                 <br/>
                 <br/>
                 <br/>
-                <br/> 
                 <Header/>
                 <br/>
                 <br/>

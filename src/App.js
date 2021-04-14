@@ -2,7 +2,7 @@ import React from "react";
 import logo from './logo.svg';
 import './App.css';
 import { render } from 'react-dom';
-import { HashRouter, Route } from "react-router-dom";
+import { HashRouter, Route, Switch} from "react-router-dom";
 import Main from './pages/Main.js';
 import NavBar from './components/NavBar.js';
 import Header from './components/Header.js';
@@ -15,14 +15,17 @@ function App() {
   return (
     <div>
     <HashRouter>
-      <div className= "app">
-        <NavBar />
+      <NavBar />
+      <Switch>
+      {/* <div className= "app"> */}
         <Route exact path="/" component= {Main}/>
         {/* <Route exact path="/aboutMe" component={AboutMe} /> */}
         <Route exact path="/myWorkPage" component={MyWorkPage} />
         {/* <Route path="/contactMe" component={ContactMe} /> */}
-      </div>
-      <Footer />
+        <Route path="*" component={MyWorkPage} />
+      {/* </div> */}
+      </Switch>
+      <Footer />    
     </HashRouter>
    
     </div>

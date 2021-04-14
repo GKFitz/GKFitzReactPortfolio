@@ -112,6 +112,9 @@ header img {
 header figure {
   text-align: center;
   padding:100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   
 }
 
@@ -119,6 +122,8 @@ header figcaption {
   font-size: 20px;
   background-color: rgba(255,255,255,0.75);
   font-weight: bold;
+  /* color:chartreuse; */
+  width: 20%; 
   
   /* padding-inline-end: ; */
 }
@@ -144,7 +149,16 @@ main p {
   max-width: 650px;
 }
 
-#myWork figure {
+#myWorkCss {
+  display: flex;
+  justify-content: center;
+}
+#myWorkButton {
+  display: flex;
+  justify-content: center;
+
+}
+#myWork figure, #myWorkPage figure {
   width:200px;
   display: inline-block;
   margin:10px;
@@ -153,16 +167,16 @@ main p {
 
 }
 
-#myWork img {
+#myWork img, #myWorkPage img {
   width:100%;
   background-color: salmon;
   
 } 
 
-#myWork div {
+#myWork div, #myWorkPage div {
   font-family: sans-serif;
 }
-#myWork a {
+#myWork a, #myWorkPage a {
   font-family: sans-serif;
 }
 p {

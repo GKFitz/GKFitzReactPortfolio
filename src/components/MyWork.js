@@ -14,6 +14,7 @@ export default class MyWork extends Component {
             <div>
                 <section id="myWork">
                 <h2>My Work</h2>
+                <div id= "myWorkCss">
                 <IndivProject projectImgs={HelpingOutImg} imgAlt="HelpingOut" caption= "Project Helping Out" deployLink= "https://joelstraley.github.io/Project-1-Helping-Out/" deployGithub= "https://github.com/Joelstraley/Project-1-Helping-Out"/>
                     {/* <figure>
                         <img src= {HelpingOutImg}alt="Gillian HS"></img>
@@ -88,7 +89,10 @@ export default class MyWork extends Component {
                             <a href= "https://github.com/GKFitz/GKFitzEmployeeTrackerSQL">Github</a>
                         </div>
                     </figure> */}
-                    <Link to="/myWorkPage"><button>See More of My Work!</button></Link>
+                </div>
+                <div id= "myWorkButton">
+                <Link to="/myWorkPage"><button>See More of My Work!</button></Link>
+                </div>
                 </section>
             </div>
         )
