@@ -16,17 +16,17 @@ function App() {
     <HashRouter>
       <div className= "app">
         <NavBar />
-        <Route exact path="/Home" component={Header} />
+        <Route exact path="/" component={Header} />
         <Route exact path="/aboutMe" component={AboutMe} />
         <Route exact path="/myWork" component={MyWork} />
         <Route path="/contactMe" component={ContactMe} />
       </div>
     </HashRouter>
-    <Main />
+    {/* <Main /> */}
     </div>
     
   );
-  render(<App />, document.getElementById('app'));
+  
 }
 
 export default App;

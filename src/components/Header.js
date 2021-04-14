@@ -9,7 +9,7 @@ export default class Header extends Component {
                 <figure>
                     <img src= {GillianHS} alt="Gillisn HS"/>
                     <figcaption>Gillian K. Fitzgerald</figcaption>
-                    <figcaption>Full Stack Developer Freelancer</figcaption>
+                    <figcaption> Freelance Full Stack Developer</figcaption>
                 </figure>
             </header>
             

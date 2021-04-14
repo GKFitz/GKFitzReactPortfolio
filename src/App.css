@@ -107,12 +107,12 @@ header img {
 }
 
 header figcaption {
-  font-size: 40px;
+  font-size: 20px;
   background-color: rgba(255,255,255,0.75);
 }
 header figcaption:first-of-type {
   padding: 10px 10px 0;
-  border-radius: 15px 15px 0 0;
+  border-radius: 10px 10px 0 0;
 }
 header figcaption:last-of-type {
   padding: 0 10px 10px;
@@ -168,6 +168,8 @@ p {
   height: 300px;
   border-radius: 50%;
   object-fit: cover;
+  justify-content: center;
+  align-items: center;
 }
 
 /* .footer {

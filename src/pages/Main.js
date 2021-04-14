@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Header from '../components/Header.js';
-//import NavBar from '../components/NavBar.js';
+// import NavBar from '../components/NavBar.js';
 import AboutMe from '../components/AboutMe.js';
 import MyWork from '../components/MyWork.js';
 import ContactMe from '../components/ContactMe.js';
