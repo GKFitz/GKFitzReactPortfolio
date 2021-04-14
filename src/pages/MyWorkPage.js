@@ -11,7 +11,7 @@ export default class MyWork extends Component {
     render() {
         return (
             <div>
-                <section id="myWork">
+                <section id="myWorkPage">
                 <h2>My Work</h2>
                 <IndivProject projectImgs={HelpingOutImg} imgAlt="HelpingOut" caption= "Project Helping Out" deployLink= "https://joelstraley.github.io/Project-1-Helping-Out/" deployGithub= "https://github.com/Joelstraley/Project-1-Helping-Out"/>
                     {/* <figure>

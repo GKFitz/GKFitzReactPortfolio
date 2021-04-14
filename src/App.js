@@ -7,8 +7,9 @@ import Main from './pages/Main.js';
 import NavBar from './components/NavBar.js';
 import Header from './components/Header.js';
 import AboutMe from './pages/AboutMe.js';
-import MyWork from './pages/MyWork.js';
+import MyWorkPage from './pages/MyWorkPage.js';
 import ContactMe from './pages/ContactMe.js';
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -16,13 +17,14 @@ function App() {
     <HashRouter>
       <div className= "app">
         <NavBar />
-        {/* <Route exact path="/" component={Header} /> */}
-        <Route exact path="/aboutMe" component={AboutMe} />
-        <Route exact path="/myWork" component={MyWork} />
-        <Route path="/contactMe" component={ContactMe} />
+        <Route exact path="/" component= {Main}/>
+        {/* <Route exact path="/aboutMe" component={AboutMe} /> */}
+        <Route exact path="/myWorkPage" component={MyWorkPage} />
+        {/* <Route path="/contactMe" component={ContactMe} /> */}
       </div>
+      <Footer />
     </HashRouter>
-    <Main />
+   
     </div>
     
   );

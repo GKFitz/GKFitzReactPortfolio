@@ -1,15 +1,16 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 
 function Navbar() {
   return (
     <nav>
-        <a href="/Home"><h1>Gillian K. Fitzgerald</h1></a>
-        {/* <Link to="/"/>  */}
+        <Link to="/"><h1>Gillian K. Fitzgerald</h1></Link>
+        
         <section>
-            <a href="/aboutMe">About Me</a>
-            <a href="/myWork">My Work</a>
-            <a href="/contactMe">Contact Me!</a>
+            <Link to="/aboutMe">About Me</Link>
+            <Link to="/myWorkPage">My Work</Link>
+            <Link to="/contactMe">Contact Me!</Link>
             
         </section>
     
