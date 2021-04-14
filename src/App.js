@@ -7,7 +7,7 @@ import Main from './pages/Main.js';
 import NavBar from './components/NavBar.js';
 import Header from './components/Header.js';
 import AboutMe from './pages/AboutMe.js';
-import MyWork from './components/MyWork.js';
+import MyWork from './pages/MyWork.js';
 import ContactMe from './pages/ContactMe.js';
 
 function App() {

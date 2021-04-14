@@ -5,7 +5,7 @@ import CodingQuizImg from "../assets/hw2-images/codingQuizProfile.jpg"
 import BurgerLoggerImg from "../assets/hw2-images/BurgerLogger2.jpg"
 import DogHouseImg from "../assets/hw2-images/DogHouse.jpg"
 import WorkDaySchedulerImg from "../assets/hw2-images/WorkDaySchedulerSS.jpg"
-import IndivProject from "./IndivProject.js"
+import IndivProject from "../components/IndivProject.js"
 
 export default class MyWork extends Component {
     render() {

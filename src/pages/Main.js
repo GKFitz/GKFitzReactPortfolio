@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Header from '../components/Header.js';
 // import NavBar from '../components/NavBar.js';
 import AboutMe from './AboutMe.js';
-import MyWork from '../components/MyWork.js';
+import MyWork from './MyWork.js';
 import ContactMe from './ContactMe.js';
 import Footer from '../components/Footer.js';
 

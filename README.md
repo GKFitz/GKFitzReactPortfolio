@@ -68,3 +68,52 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+##Title 
+Gillian K. Fitzgerald REACT Portfolio
+
+## Description
+This is the third iteration of my Columbia engineering Full-Stack Web Development program portfolio website. Unlike the last two, this portfolio has been written in React. It is also completely mobile responsive with an updated one page design. In the third section titled My Work, at least three examples of my group project and and completed homework assignment are displayed and linked to. The styling is mostly done in vanilla Html and Css, with the exception of the footer and icon bar which has been coded using Bootstrap. This website is deployed via GH pages.  
+
+## License
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+##Screenshot
+
+## Table of Contents
+* [License](#License)
+* [Description](#Description)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contributors](#Contributors)
+* [Test](#Test)
+
+
+## Installation Instruction
+This site requires react, react DOM, and Bootstrap, inaddition to HTML and CSS.
+
+## Usage 
+This is a portfolio site for the full-Stack Development work of Gillian K. Fitzgerald. To view, click the link down below.
+
+
+## Contributors
+This site was created by Gillian K. Fitzgerald.
+
+## Test
+No tests were performed on this site.
+
+## Questions
+If anyone has any questions about this app, please contact me via GitHub or email:
+
+#GitHub: [https://github.com/GKFitz](https://github.com/GKFitz)
+
+#Email: [gkf2103@gmail.com](gkf2103@gmail.com)
+
+##Link To First Portfolio:
+https://gkfitz.github.io/GKFitzHW02.github.io/
+
+##Link to Second Portfolio:
+https://gkfitz.github.io/GKFitzPortfolio2/
+
+##Link to React Portfolio:
+
