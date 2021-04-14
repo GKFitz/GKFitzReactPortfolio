@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import StormKingImg from "../assets/hw2-images/gkfhw02_portfolio_stormking.jpg"
-import Resume from "../assets/hw2-images/gillianFitzgeraldResumeD3.pdf"
+import Resume from "../assets/hw2-images/gillianFitzgeraldResumeD4.pdf"
 export default class ContactMe extends Component {
     render() {
         return (
