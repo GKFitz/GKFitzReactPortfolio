@@ -40,7 +40,6 @@
 body {
   margin: 0;
   font-family: sans-serif;
-  background-color: whitesmoke;
 }
 
 body nav {
@@ -89,6 +88,7 @@ main > * {
   min-height: 100vh;
   padding-top: 100px;
   text-align:center;
+
   
 } 
 header {
@@ -183,7 +183,7 @@ p {
   /* vertical-align: top; */
 
 }
-figure img {
+#contactMe img {
   width:300px;
   height: 300px;
   border-radius: 50%;
