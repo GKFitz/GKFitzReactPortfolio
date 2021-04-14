@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Header from '../components/Header.js';
-import NavBar from '../components/NavBar.js';
+//import NavBar from '../components/NavBar.js';
 import AboutMe from '../components/AboutMe.js';
 import MyWork from '../components/MyWork.js';
 import ContactMe from '../components/ContactMe.js';
@@ -10,12 +10,12 @@ export default class Main extends Component {
     render() {
         return (
             <div>
-                <NavBar />
+                {/* <NavBar /> 
                 <br/>
                 <br/>
                 <br/>
-                <br/>
-                <Header />
+                <br/>  */}
+                <Header id= "Header"/>
                 <br/>
                 <br/>
                 <br/>
@@ -23,11 +23,11 @@ export default class Main extends Component {
                 <br/>
                 <br/>
                 <br/>
-                <MyWork />
+                <MyWork id= "MyWork"/>
                 <br/>
                 <br/>
                 <br/>
-                <ContactMe />
+                <ContactMe id= "ContactMe"/>
                 <br/>
                 <br/>
                 <br/>
