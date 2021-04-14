@@ -114,10 +114,7 @@ header figure {
   padding:100px;
   
 }
-figcaption {
-  
-  
-}
+
 header figcaption {
   font-size: 20px;
   background-color: rgba(255,255,255,0.75);
@@ -173,6 +170,11 @@ p {
   margin: 0 auto;
   max-width: 650px;
 }
+#contactMe figure {
+  align-items: center;
+  text-align: center;
+  
+}
 #contactMe figcaption {
   /* width:200px; */
   text-align: center;
@@ -181,20 +183,27 @@ p {
   /* vertical-align: top; */
 
 }
-#contactMe img {
+figure img {
   width:300px;
   height: 300px;
   border-radius: 50%;
   object-fit: cover;
   justify-content: center;
   align-items: center;
+  text-align: center;
+  margin: 0 auto;
+  
+}
+section h2 {
+  text-align: center;
 }
 
-h2 {
+/* 
+
   text-align: center;
   padding: 100px;
 
-}
+} */
 
 /* .footer {
   background-color: cornflowerblue;
@@ -247,7 +256,9 @@ h2 {
   background: #007bb5;
   color: white;
 }  */
-
+figure a {
+  text-align: center;
+}
 .footer {
   /* position: fixed; */
   bottom: 0;
