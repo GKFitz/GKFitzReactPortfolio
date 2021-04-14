@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/GKFitzReactPortfolio/static/css/main.2d19b3c8.chunk.css",
+    "main.js": "/GKFitzReactPortfolio/static/js/main.1cca163a.chunk.js",
+    "main.js.map": "/GKFitzReactPortfolio/static/js/main.1cca163a.chunk.js.map",
+    "runtime-main.js": "/GKFitzReactPortfolio/static/js/runtime-main.948f49c5.js",
+    "runtime-main.js.map": "/GKFitzReactPortfolio/static/js/runtime-main.948f49c5.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/GKFitzReactPortfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8794813f.chunk.js": "/GKFitzReactPortfolio/static/js/2.8794813f.chunk.js",
+    "static/js/2.8794813f.chunk.js.map": "/GKFitzReactPortfolio/static/js/2.8794813f.chunk.js.map",
+    "static/js/3.083d246f.chunk.js": "/GKFitzReactPortfolio/static/js/3.083d246f.chunk.js",
+    "static/js/3.083d246f.chunk.js.map": "/GKFitzReactPortfolio/static/js/3.083d246f.chunk.js.map",
+    "index.html": "/GKFitzReactPortfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/GKFitzReactPortfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.2d19b3c8.chunk.css.map": "/GKFitzReactPortfolio/static/css/main.2d19b3c8.chunk.css.map",
+    "static/js/2.8794813f.chunk.js.LICENSE.txt": "/GKFitzReactPortfolio/static/js/2.8794813f.chunk.js.LICENSE.txt",
+    "static/media/BurgerLogger2.aa5ac061.jpg": "/GKFitzReactPortfolio/static/media/BurgerLogger2.aa5ac061.jpg",
+    "static/media/DogHouse.7c90187a.jpg": "/GKFitzReactPortfolio/static/media/DogHouse.7c90187a.jpg",
+    "static/media/WorkDaySchedulerSS.8c89021a.jpg": "/GKFitzReactPortfolio/static/media/WorkDaySchedulerSS.8c89021a.jpg",
+    "static/media/codingQuizProfile.050f1d27.jpg": "/GKFitzReactPortfolio/static/media/codingQuizProfile.050f1d27.jpg",
+    "static/media/gillianFitzgeraldResumeD3.d827b3c3.pdf": "/GKFitzReactPortfolio/static/media/gillianFitzgeraldResumeD3.d827b3c3.pdf",
+    "static/media/gillianSmileHS.a3d4d2a4.jpg": "/GKFitzReactPortfolio/static/media/gillianSmileHS.a3d4d2a4.jpg",
+    "static/media/App.css": "/GKFitzReactPortfolio/static/media/gkfhw02_portfolio_halfdome.30d0f8a2.jpg",
+    "static/media/gkfhw02_portfolio_stormking.d7ff19dd.jpg": "/GKFitzReactPortfolio/static/media/gkfhw02_portfolio_stormking.d7ff19dd.jpg",
+    "static/media/helpingOut.25b5bfd0.jpg": "/GKFitzReactPortfolio/static/media/helpingOut.25b5bfd0.jpg",
+    "static/media/logo.6ce24c58.svg": "/GKFitzReactPortfolio/static/media/logo.6ce24c58.svg",
+    "static/media/profileWeatherDash.e64789a4.jpg": "/GKFitzReactPortfolio/static/media/profileWeatherDash.e64789a4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.948f49c5.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8794813f.chunk.js",
+    "static/css/main.2d19b3c8.chunk.css",
+    "static/js/main.1cca163a.chunk.js"
+  ]
+}
