@@ -13,7 +13,7 @@ export default class Footer extends Component {
                         <a href="https://www.linkedin.com/in/gillian-k-fitzgerald-b5293020a/" class="fa fa-linkedin "></a>
                         <a href="https://github.com/GKFitz" class= "fa fa-github git"></a>
                     </div>
-                    <span class="text-muted"> Copyright by Gillian K Fitzgerald</span> 
+                    <span class="text-muted copyRight"> Copyright by Gillian K Fitzgerald</span> 
                 </div>
             
             </footer>  

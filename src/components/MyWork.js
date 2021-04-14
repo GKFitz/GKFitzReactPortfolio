@@ -22,6 +22,7 @@ export default class MyWork extends Component {
                         <a href= "https://github.com/Joelstraley/Project-1-Helping-Out">Github</a>
                         </div>
                     </figure> */}
+                    <IndivProject projectImgs={DogHouseImg} imgAlt="Project DogHouse" caption= "Project DogHouse" deployLink= "https://infinite-falls-44776.herokuapp.com/" deployGithub= "https://github.com/GKFitz/jediCoderz"/>
                     <IndivProject projectImgs={WeatherDashboardImg} imgAlt="Weather DashBoard" caption= "Weather Dashboard" deployLink= "https://gkfitz.github.io/GKFitzHW06.github.io/" deployGithub= "https://github.com/GKFitz/GKFitzHW06.github.io"/>
                     {/* <figure>
                         <img src="../assets/hw2-images/profileWeatherDash.jpg" alt="Weather DashBoard"/>
@@ -52,7 +53,7 @@ export default class MyWork extends Component {
                         </div>
                         
                     </figure> */}
-                    <IndivProject projectImgs={DogHouseImg} imgAlt="Project DogHouse" caption= "Project DogHouse" deployLink= "https://infinite-falls-44776.herokuapp.com/" deployGithub= "https://github.com/GKFitz/jediCoderz"/>
+                    
                     {/* <figure>
                         <img src="../assets/hw2-images/DogHouse.jpg" alt="Project DogHouse"/>
                         <figcaption>Project DogHouse</figcaption>
@@ -70,7 +71,7 @@ export default class MyWork extends Component {
                             <a href= "https://gkfitz.github.io/GKFitzHW05.github.io/">Github</a>
                         </div>
                     </figure> */}
-                    <figure>
+                    {/* <figure>
                         <img src="../assets/hw2-images/GilliansNoteTakerSS.jpg" alt="Note Taker"/>
                         <figcaption>Note Taker</figcaption>
                         <div>
@@ -85,7 +86,7 @@ export default class MyWork extends Component {
                             <a href= "https://drive.google.com/file/d/135mgR_argPejLxDFny5Rno7CG4mciD83/view">Link to Demo</a>
                             <a href= "https://github.com/GKFitz/GKFitzEmployeeTrackerSQL">Github</a>
                         </div>
-                    </figure>
+                    </figure> */}
 
                 </section>
             </div>

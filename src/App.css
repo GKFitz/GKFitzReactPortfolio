@@ -278,6 +278,7 @@ figure a {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
+  line-height: ;
 }
 
 .icon-bar a {
@@ -338,4 +339,10 @@ figure a {
   width: 1rem; */
 
 }
+
+span {
+  padding: 10px;
+  color: black;
+}
+
 

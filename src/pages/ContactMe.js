@@ -12,7 +12,7 @@ export default class ContactMe extends Component {
                     <figcaption>Gillian K Fitzgerald</figcaption>
                     <figcaption>Email:<a href= "gkf2103@gmail.com">"gkf2103@gmail.com"</a></figcaption>
                     <figcaption>Phone: 201-951-2677</figcaption>
-                    <a href= {Resume}>See My Resume</a>
+                    <a href= {Resume} target="_blank" rel="noreferrer">See My Resume</a>
                 </figure>
         
             </section>
