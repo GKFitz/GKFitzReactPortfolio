@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav>
         <a href="/Home"><h1>Gillian K. Fitzgerald</h1></a>
-        <Link to="/"/> 
+        {/* <Link to="/"/>  */}
         <section>
             <a href="/aboutMe">About Me</a>
             <a href="/myWork">My Work</a>
