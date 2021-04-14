@@ -108,23 +108,33 @@ header img {
 
 }
 
+
 header figure {
   text-align: center;
   padding:100px;
+  
 }
-
+figcaption {
+  
+  
+}
 header figcaption {
   font-size: 20px;
   background-color: rgba(255,255,255,0.75);
+  font-weight: bold;
   
+  /* padding-inline-end: ; */
 }
+
 header figcaption:first-of-type {
   padding: 10px 10px 0;
   border-radius: 10px 10px 0 0;
+
 }
 header figcaption:last-of-type {
   padding: 0 10px 10px;
   border-radius: 0 0 15px 15px;
+
 }
 
 main p {
@@ -178,6 +188,12 @@ p {
   object-fit: cover;
   justify-content: center;
   align-items: center;
+}
+
+h2 {
+  text-align: center;
+  padding: 100px;
+
 }
 
 /* .footer {
